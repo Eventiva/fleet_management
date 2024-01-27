@@ -96,7 +96,7 @@ app_license = "mit"
 # ------------------
 # See frappe.core.notifications.get_notification_config
 
-# notification_config = "fleet_management.notifications.get_notification_config"
+# notification_config = "fleet_management.utils.get_notification_config"
 
 # Permissions
 # -----------
