@@ -40,7 +40,7 @@ configVersion: 1
 typeId: CAPABILITY
 ownerId: 'ari:cloud:teams::team/9d2ecc3f-3428-4f14-96fb-bbcb544adea1'
 fields:
-  tier: 2
+  tier: 3
   lifecycle: Pre-release
 links:
   - name: null
