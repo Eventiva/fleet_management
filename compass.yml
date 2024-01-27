@@ -33,7 +33,7 @@
  # DELETING THIS NOTICE AUTOMATICALLY VOIDS YOUR LICENSE - PLEASE SEE THE LICENSE FILE FOR DETAILS
  ###
 
-name: fleet_management
+name: eventiva_fleet_management
 id: 'ari:cloud:compass:2e15fee5-391d-40a0-b7d5-cea6ad3f4f53:component/2f4672a7-62fa-4a3f-8df0-34dde1d6974d/44ab1b2c-e622-40b0-a505-87023ea1722e'
 description: Advanced Fleet Management build on frappe HRMS
 configVersion: 1
