@@ -154,7 +154,7 @@ app_license = "mit"
 # Testing
 # -------
 
-# before_tests = "fleet_management.install.before_tests"
+before_tests = "fleet_management.install.before_tests"
 
 # Overriding Methods
 # ------------------------------
