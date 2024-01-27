@@ -45,7 +45,7 @@ fields:
 links:
   - name: null
     type: REPOSITORY
-    url: 'https://github.com/Eventiva/fleet_management'
+    url: 'https://github.com/eventiva/fleet_management'
 relationships:
   DEPENDS_ON:
     - 'ari:cloud:compass:2e15fee5-391d-40a0-b7d5-cea6ad3f4f53:component/2f4672a7-62fa-4a3f-8df0-34dde1d6974d/f15a5e9c-bb79-4de3-a0df-ea6dfc51db5f'
